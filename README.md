@@ -1,7 +1,8 @@
 ## Versions
 
-Ruby on Rails 5.1.5
-React 16.2.0
+backend Ruby on Rails 5.1.5
+
+frontend React 16.2.0
 
 ## demo
 [![https://gyazo.com/0b9aaa8df0895a451de8a9d4d04a0bcd](https://i.gyazo.com/0b9aaa8df0895a451de8a9d4d04a0bcd.gif)](https://gyazo.com/0b9aaa8df0895a451de8a9d4d04a0bcd)
