@@ -16,6 +16,7 @@ rake db:migrate
 
 React
 ```
+cd crud_front
 npm install
 ```
 
