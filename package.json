@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.17.1",
+    "react-addons-update": "^15.6.2",
+    "react-bootstrap": "^0.32.1"
+  }
+}
